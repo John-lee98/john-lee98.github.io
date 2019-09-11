@@ -44,10 +44,15 @@ footer {
     text-align: center;
  }
 
-.name {
+.name{
 	color: #fff;
 	padding-top: 5%;
-	font-size: 50px;
+	font-size: 60px;
+
+}
+
+.footer_name, .footer_description {
+	color: #fff;
 }
 
 .description {
@@ -141,3 +146,4 @@ footer {
  .resume_education {
  	margin-top: 5%;
  }
+
