@@ -8,7 +8,7 @@
 html, body, head{
 	height: 100%;
 	scroll-behavior: smooth;
-	background-color: #EFE6DD;
+	background-color: #F6F8FF;
 }
 
 a {
@@ -85,7 +85,7 @@ footer {
 .about_description, .project_description, .involvements_description, 
 .resume_bullet_points, .contact_content, .contact_email {
 	padding-left: 5%;
-	color: #231F20;
+	color: #070707;
 }
 
 .social_media_links {
