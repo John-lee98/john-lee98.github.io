@@ -18,7 +18,7 @@ a {
 }
 
 footer {
-	background-color: #7EBDC2;
+	background-color: #475B5A;
 }
 
 .container{
@@ -145,5 +145,13 @@ footer {
 
  .resume_education {
  	margin-top: 5%;
+ }
+
+ .footer_content {
+ 	padding-top: 5%;
+ }
+
+ .copyright_content {
+ 	color: #fff;
  }
 
