@@ -99,18 +99,18 @@ footer {
  	margin-left: 20px;
  }
 
- .asol_photo, .rdm_photo, .memory_photo {
+ .asol_photo, .pokemonSearch_photo, .memory_photo {
  	width: 50%;
  	height: auto;
  }
 
- .ise305_project, .asolgg_project, .memory_project {
+ .pokemonSearch_project, .asolgg_project, .memory_project {
  	display: flex;
  	width: 100%;
  	height: 100%;
  }
 
- .ise305_project, .asolgg_project {
+ .pokemonSearch_project, .asolgg_project {
  	margin-bottom: 5%;
  }
 
