@@ -44,13 +44,13 @@ footer {
 	color: #fff;
 	padding-top: 5%;
 	font-size: 65px;
-	font-family: "Calibri", "sans-serif"
+	font-family: "Calibri", "sans-serif";
 }
 
 .description {
 	color: #fff;
 	font-size: 25px;
-	font-family: "Calibri", "sans-serif"
+	font-family: "Calibri", "sans-serif";
 }
 
 .bg_line {
@@ -80,7 +80,7 @@ footer {
 	padding-left: 5%;
 	color: #070707;
 	font-size: 18px;
-	font-family: "Calibri", "sans-serif"
+	font-family: "Calibri", "sans-serif";
 }
 
 .social_media_links {
@@ -132,7 +132,7 @@ footer {
 .tag_lines {
 	color: #000;
 	font-size: 45px;
-	font-family: "Calibri", "sans-serif"
+	font-family: "Calibri", "sans-serif";
 }
 
 .resume_education {
@@ -145,19 +145,19 @@ footer {
 
 .resume_name_entry {
 	font-style: italic;
-	font-family: "Calibri", "sans-serif"
+	font-family: "Calibri", "sans-serif";
 	font-style: italic;
 }
 
 .resume_classes {
 	font-size: 25px;
-	font-family: "Calibri", "sans-serif"
+	font-family: "Calibri", "sans-serif";
 }
 
 
 .footer_name, .footer_description, .copyright_content {
 	color: #fff;
-	font-family: "Calibri", "sans-serif"
+	font-family: "Calibri", "sans-serif";
 }
 
 .footer_name {
