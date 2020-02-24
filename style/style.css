@@ -100,8 +100,8 @@ footer {
  }
 
  .asol_photo, .pokemonSearch_photo, .memory_photo {
- 	width: 50%;
- 	height: auto;
+ 	width: 35%;
+ 	height: 80%;
  }
 
  .pokemonSearch_project, .asolgg_project, .memory_project {
